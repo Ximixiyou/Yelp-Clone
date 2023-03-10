@@ -1,0 +1,19 @@
+{
+  "name": "yelp-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ximixiyou/Yelp-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ximixiyou/Yelp-Clone/issues"
+  },
+  "homepage": "https://github.com/Ximixiyou/Yelp-Clone#readme"
+}
